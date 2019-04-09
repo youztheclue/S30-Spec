@@ -1,0 +1,181 @@
+KEY:
+
+      System name: Subsection
+
+      Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Lights: Exterior
+
+Headlights
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Turn Signals
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Taillights
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Brake Lights
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Lights: Interior
+
+Dash
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Map
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Wipers:
+
+Motor
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Fluid Pump
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Engine: Starting
+
+Fuel Pump
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Ignition
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Coil 
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Electric Choke
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Engine: Constant for running
+
+Electric Fan(s)
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Alternator
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Fuel Injection
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
+
+Ignition
+
+Detailed description to-from/Route
+
+      #gauge(American), Stock color, My new color for reference
+
+      Stock length, New route with reasons for change, length of heat shrink for specific subsection
+
+      Expected electrical load, name of oe connector/number of wires, new connector style and size
